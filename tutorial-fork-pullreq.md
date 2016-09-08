@@ -34,3 +34,5 @@ Source:  - https://guides.github.com/activities/forking/
 - Then click on "Send pull request". This will submit your change to the owner of the masterfile, Dr. Garrigus, and he will evaluate your work.
 
 ## Done!
+- You have forked a repository, made changes, and contributed to a document!
+- This is technology you can use to collaborate with other historians and/or teachers for writing, collecting data, or even programming.
