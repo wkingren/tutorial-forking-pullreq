@@ -31,6 +31,18 @@ this assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 ## Chapter 4: The Divarication of the Putney Debates
 
 ## Chapter 5: Hydrarchy: Sailors, Pirates and the Maritime State
+![The Tar's Triumph, or Bawdy-House Battery](http://2.bp.blogspot.com/-JsKdCmWQ3Wk/Ux5lKcyAJ9I/AAAAAAAABMw/pPDWZiAMGPU/s1600/The+Tar%27s+Triumph+or+Bawdy+House+Brawl+Charles+Mosley+1749+NMM.jpg)
+[For more information on this image please visit The British Museum](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3223873&partId=1)
+
+* This chapter looks at the wooden world of the 18th century and argues that the ship was both the key component for expanding capitalism and the setting for resistance against this capitalist system. The majority of the concepts in this book can be seen in greater detail in _Between the Devil and the Deep Blue Sea:Merchant Seamen, Pirates, and the Anglo-American Maritime -world, 1700-1750_ by Marcus Rediker.
+* The authors contend that in the last half of the 17th century capitalist had organized the exploitation of human labor in four way.  
+1. The commercial estate for the capitalist production of agriculture.
+2. The production of petty goods that use to be the market sector for artisans.
+3. The putting-out system, which saw a circulation of goods to Africa and the Americas from Europe.
+4. The mode of production that united the previous three. namely the ship.
+* Yet this ship , while vital to carry on the triangular trade also created a collective group that resisted at every opportunity. For example, Linebaugh and Rediker argue that Jack Tar was always seen at the forefront whenever there was a riot, mutiny, or piracy. 
+* Such militancy against the capitalist world resulted in the wooden world being "turned upside down" with the rise in piracy during what is known as "The Golden Age of Piracy". The authors maintain that a pirate ship turned the capitalist world upside down as it was an egalitarian society  that practiced true democracy. 
+* This does give the reader pause. It maybe true that pirate crews often voted on matters and positions such as prizes taken, captains, boatswains, and mates, it is also true that this was not always true and depended on each ship. It could also be argued that pirates where part of this capitalist system as they were trying to increase their profits with as little work as possible. Recent historians of the Golden Age of Piracy such as Ed Fox argue that Rediker's interpretation of the Golden Age is flawed. [For more info on Ed Fox click here.](http://www.etfox.co.uk/index.php)
 
 ## Chapter 6: "The Outcasts of the Nations of the Earth"
 
