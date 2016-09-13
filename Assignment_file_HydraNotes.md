@@ -1,4 +1,4 @@
-# Tutorial practice file "Hydranotes" to practice forking and pull requests
+﻿# Tutorial practice file "Hydranotes" to practice forking and pull requests
 this assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 
 ## Introduction
@@ -35,22 +35,35 @@ this assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 [For more information on this image please visit The British Museum](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=3223873&partId=1)
 
 * This chapter looks at the wooden world of the 18th century and argues that the ship was both the key component for expanding capitalism and the setting for resistance against this capitalist system. The majority of the concepts in this book can be seen in greater detail in _Between the Devil and the Deep Blue Sea:Merchant Seamen, Pirates, and the Anglo-American Maritime -world, 1700-1750_ by Marcus Rediker.
-* The authors contend that in the last half of the 17th century capitalist had organized the exploitation of human labor in four way.  
+* The authors contend that in the last half of the 17th century capitalist organized the exploitation of human labor in four ways.  
 1. The commercial estate for the capitalist production of agriculture.
 2. The production of petty goods that use to be the market sector for artisans.
 3. The putting-out system, which saw a circulation of goods to Africa and the Americas from Europe.
-4. The mode of production that united the previous three. namely the ship.
-* Yet this ship , while vital to carry on the triangular trade also created a collective group that resisted at every opportunity. For example, Linebaugh and Rediker argue that Jack Tar was always seen at the forefront whenever there was a riot, mutiny, or piracy. 
+4. The mode of production that united the previous three, namely the ship.
+* Yet this ship , while vital to carry on the triangular trade, also created a collective group that resisted at every opportunity. For example, Linebaugh and Rediker argue that Jack Tar was always seen at the forefront whenever there was a riot, mutiny, or piracy. 
 * Such militancy against the capitalist world resulted in the wooden world being "turned upside down" with the rise in piracy during what is known as "The Golden Age of Piracy". The authors maintain that a pirate ship turned the capitalist world upside down as it was an egalitarian society  that practiced true democracy. 
-* This does give the reader pause. It maybe true that pirate crews often voted on matters and positions such as prizes taken, captains, boatswains, and mates, it is also true that this was not always true and depended on each ship. It could also be argued that pirates where part of this capitalist system as they were trying to increase their profits with as little work as possible. Recent historians of the Golden Age of Piracy such as Ed Fox argue that Rediker's interpretation of the Golden Age is flawed. [For more info on Ed Fox click here.](http://www.etfox.co.uk/index.php)
+* This does give the reader pause. It may be true that pirate crews often voted on matters such as prizes taken, and officers of the crew. This was, however not always the case and depended on each ship. It could also be argued that pirates where part of this capitalist system as they were trying to increase their profits with as little work as possible. Recent historians of the Golden Age of Piracy such as Ed Fox makes these assertions and argues that Rediker's interpretation of the Golden Age is flawed when it comes to the egalitarian nature of the pirate ship. [For more info on Ed Fox click here.](http://www.etfox.co.uk/index.php)
 
 ## Chapter 6: "The Outcasts of the Nations of the Earth"
 
 ## Chapter 7: A Motley Crew in the American Revolution
+![Boston Stamp Act Riot 1764 ](https://i2.wp.com/allthingsliberty.com/wp-content/uploads/2013/01/stamp-act-riot.jpg?fit=598%2C548&ssl=1)
+
+* In chapter seven of _The Many-Headed Hydra_ Linebaugh and Rediker describe the make up of the working class people in the American Revolution. The authors argue that the people who helped to spread the idea of independence was not the elites of society, but a motley crew of working class people. 
+* Linebaugh and Rediker state that two meanings of "motley crew" must be defined.
+1. The first definition refers to an organized gang of workers. 
+2. The Second definition is the sociopolitical formation of the port or town. 
+* Combined, these definitions demonstrates the dynamic of the motley crew of the American Revolution which was a multi-ethnic collective that was composed of both sailors and slaves who fought together against the stamp acts and impressment. Both groups created a mob which increased in size as other working class peoples joined in. 
+* Sailors and slaves were prime movers in the cycle of rebellion because they were part of a migratory pattern that could carry word of  rebellions from other parts of the empire to North America. 
+* In the picture above many members of the motley crew can be identified which includes a sailor, a slave, a woman, a craftsman, and perhaps a farmer. 
+* The elites of society, however, did not agree with this radical bottom up vision of the nation and intervened. The elites were able to take control of the revolution, and after the battles had been won, were able to subjugate the motley crew back into its "desired" social statues.
+
+[For 18th century depictions of press gangs please visit British Tars: 1740-1790.](http://britishtars.blogspot.com/search/label/press%20gang) 
+
+[For more information about women in the American Revolution please visit History of American Women.](http://www.womenhistoryblog.com/2009/02/daughters-of-liberty.html)
 
 ## Chapter 8: The Conspiracy of Edward and Catherine Despard
 
 ## Chapter 9: Robert Wedderburn and Atlantic Jubilee
 
 ## Conclusion: Tyger! Tyger!
-
