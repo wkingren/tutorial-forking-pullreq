@@ -45,7 +45,7 @@
 ## Chapter 6: "The Outcasts of the Nations of the Earth"
 
 ## Chapter 7: A Motley Crew in the American Revolution
-![Boston Stamp Act Riot 1764 ](https://i2.wp.com/allthingsliberty.com/wp-content/uploads/2013/01/stamp-act-riot.jpg?fit=598%2C548&ssl=1)
+![Boston Stamp Act Riot 1764](https://i2.wp.com/allthingsliberty.com/wp-content/uploads/2013/01/stamp-act-riot.jpg)
 
 * In chapter seven of _The Many-Headed Hydra_ Linebaugh and Rediker describe the make up of the working class people in the American Revolution. The authors argue that the people who helped to spread the idea of independence was not the elites of society, but a motley crew of working class people.
 * Linebaugh and Rediker state that two meanings of "motley crew" must be defined.
