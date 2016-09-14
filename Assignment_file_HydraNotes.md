@@ -28,9 +28,12 @@ this assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 
 ## Chapter 8: The Conspiracy of Edward and Catherine Despard
 
+
 ## Chapter 9: Robert Wedderburn and Atlantic Jubilee
 
-## Conclusion: Tyger! Tyger!
-Both Adam Smith and Karl Marx understood maritime origins of globalization the successive and characteristic sites of struggle in the period from roughly 1600 to 1835 were the commons, the plantation, the ship, and the factory from 1760 to 1835, the "motley crew" launched the age of revolution in the Atlantic. The "motley crew" helped to produce the American Revolution
 
-  
+## Conclusion: Tyger! Tyger! 
+- Both Adam Smith and Karl Marx understood maritime origins of globalization 
+- The successive and characteristic sites of struggle in the period from roughly 1600 to 1835 were the commons, the plantation, the ship, and the factory 
+- From 1760 to 1835, the "motley crew" launched the age of revolution in the Atlantic 
+- The "motley crew" helped to produce the American Revolution
