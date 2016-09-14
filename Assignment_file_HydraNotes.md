@@ -1,5 +1,4 @@
-# Tutorial practice file "Hydranotes" to practice forking and pull requests
-this assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
+﻿# This assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 
 ## Introduction
 
@@ -61,13 +60,10 @@ this assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 
 [For more information about women in the American Revolution please visit History of American Women.](http://www.womenhistoryblog.com/2009/02/daughters-of-liberty.html)
 
-## Chapter 7: A Motley Crew in the American Revolution
-
 ## Chapter 8: The Conspiracy of Edward and Catherine Despard
 
 
 ## Chapter 9: Robert Wedderburn and Atlantic Jubilee
-
 
 ## Conclusion: Tyger! Tyger!
 - Both Adam Smith and Karl Marx understood maritime origins of globalization
