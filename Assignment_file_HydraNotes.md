@@ -15,16 +15,6 @@ this assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 * "Military men transformed Bermuda and Virginia from places of 'liberty and the fullness of sensuality' to places of bondage, war, scarcity, and famine" (p 35).
 
 ## Chapter 2: Hewers of Wood and Drawers of Water
-	* *More emphasis on violence and terror: Foucault. Discipline, forcing people to become something.*
-* **The Curse of Labor**
-	* Continuance of “the analysis…of the processes of expropriation, exploitation, and colonization” (40).
-	* Wide use of the term, describing the “invisible, anonymous, and forgotten, even though they transformed the face of the earth by building the infrastructure of ‘civilization’” (42).
-* **The Labors of the Hewer and Drawer**
-	* “Three main functions: they undertook the labors of expropriation [clearing land, building infrastructure]; they built the ports and the ships and provided the seafarers for Atlantic commerce; and they daily maintained the households” (43).  They made the rise of merchant capitalism possible.
-* **Terror**
-	* “In England, the expropriation of the peasantry was accompanied by systematic violence and terror, organized through the criminal sanction, public searches, the prisons, martial law, capital punishment, banishment, forced labor, and colonization” (49).  Very severe, very public.  Measures of control.
-* The Specter of Hercules
-	* Targets of the “holy war”: 1. Caliban (Natives)  2. Canannite (dispossessed commoner)  3. Pirates  4. Land rovers, petty thieves, highway robbers (underclass who rejected wage labor)  5. Assassins (threat to kings)  6. Amazons (empowered women)  7. Anabaptists
 
 ## Chapter 3: "A Blackymore Maide Named Francis"
 
@@ -40,5 +30,5 @@ this assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 
 ## Chapter 9: Robert Wedderburn and Atlantic Jubilee
 
-## Conclusion: Tyger! Tyger!
+## Conclusion: Tyger! Tyger! +* both Adam Smith and Karl Marx understood maritime origins of globalization +* the successive and characteristic sites of struggle in the period from roughly 1600 to 1835 were the commons, the plantation, the ship, and the factory +* from 1760 to 1835, the "motley crew" launched age of revolution in Atlantic +* "motley crew" helped to produce American Revolution
 
