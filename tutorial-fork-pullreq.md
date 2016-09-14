@@ -29,7 +29,7 @@ Source:  - https://guides.github.com/activities/forking/
 - Once you've added the content that you wanted, "committed" your changes locally, and synced those changes up to GitHub, it's time to propose that the masterfile accept your changes.
 - This is called a "pull request"
 - Go to your on-line account in GitHub, and find your forked repository
-- Click on the the green button labeled "Compare and pull request"
+- Click on the the button labeled "Compare and pull request"
 - This will take you to a page where you can describe your changes and make a case that they should be included in the masterfile.
 - Then click on "Send pull request". This will submit your change to the owner of the masterfile, Dr. Garrigus, and he will evaluate your work.
 
