@@ -47,6 +47,16 @@
 * Yet this ship , while vital to carry on the triangular trade, also created a collective group that resisted at every opportunity. For example, Linebaugh and Rediker argue that Jack Tar was always seen at the forefront whenever there was a riot, mutiny, or piracy.
 * Such militancy against the capitalist world resulted in the wooden world being "turned upside down" with the rise in piracy during what is known as "The Golden Age of Piracy". The authors maintain that a pirate ship turned the capitalist world upside down as it was an egalitarian society  that practiced true democracy.
 * This does give the reader pause. It may be true that pirate crews often voted on matters such as prizes taken, and officers of the crew. This was, however not always the case and depended on each ship. It could also be argued that pirates where part of this capitalist system as they were trying to increase their profits with as little work as possible. Recent historians of the Golden Age of Piracy such as Ed Fox makes these assertions and argues that Rediker's interpretation of the Golden Age is flawed when it comes to the egalitarian nature of the pirate ship. [For more info on Ed Fox click here.](http://www.etfox.co.uk/index.php)
+* 
+** Summary **
+
+* Impressment was paramount to maintaining and expanding British imperialism, thus the death penalty for resisting impressment was instituted. 
+
+* The ship can be used as a historical unit of analysis, particularly as a “productive” site of exploitation and class struggle, similar to a factory.
+
+* As found elsewhere, sailors found ways to cooperatively resist the ship’s imperial hierarchy. Mutiny was common enough, and mutinous sailors would chart new lives for themselves as pirates. The ideological basis of their piracy, however, appears to have been equality in loot and opposition to arbitrary and unjust violence.
+
+* Extermination of pirates was in part an extirpation of an alternative lifestyle, oppositional in cultural values and hostile to state authority. 
 
 ## Chapter 6: "The Outcasts of the Nations of the Earth"
 1. Chapter Thesis: There was a conspiracy that involved the proletariat of the entire Atlantic, and it erupted in the 1741 New York rebellion.
