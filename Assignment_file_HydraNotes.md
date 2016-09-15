@@ -1,6 +1,12 @@
 ﻿# This assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 
 ## Introduction
+![The Many-Headed Hydra: Sailors, Slaves, Commoners, and the Hidden History of the Revolutionary Atlantic](https://images-na.ssl-images-amazon.com/images/I/51q8N-KuaeL._SX331_BO1,204,203,200_.jpg)
+1. The Atlantic is a hotbed of migration; migration related to labor classes: pirates, sailors and immigrants.
+2. The use of the Hydra myth, by the ruling class or elites, presents an easy to understand representation of anti-progress as embodied within labor classes (as seen, not by the authors, but by the elites captured within the examined historical documents).
+3. The various labor classes did not always, as will be examined, work hand-in-hand with one another, but at times fought with or sidetracked one another within the greater scheme of things - again, the use they many-headed hydra, where some heads might fight one another, is useful imagery.
+4. Though not consistently obvious, the Hercules aspect of the myth is not be lost.  This monograph is very much a story about labor classes as it is the ruling / elite classes within the Atlantic world.
+[To buy this book.](https://www.amazon.com/Many-Headed-Hydra-Commoners-Revolutionary-Atlantic/dp/0807033170)
 
 ## Chapter 1: Wreck of the Sea-Venture
 ![The Wreck of the Sea Venture by Christopher Grimes](https://minerdescent.files.wordpress.com/2011/11/wreck-of-the-sea-venture-2.jpg)
@@ -24,6 +30,7 @@
 	* “In England, the expropriation of the peasantry was accompanied by systematic violence and terror, organized through the criminal sanction, public searches, the prisons, martial law, capital punishment, banishment, forced labor, and colonization” (49).  Very severe, very public.  Measures of control.
 * The Specter of Hercules
 	* Targets of the “holy war”: 1. Caliban (Natives)  2. Canannite (dispossessed commoner)  3. Pirates  4. Land rovers, petty thieves, highway robbers (underclass who rejected wage labor)  5. Assassins (threat to kings)  6. Amazons (empowered women)  7. Anabaptists
+	
 ## Chapter 3: "A Blackymore Maide Named Francis"
 
 ## Chapter 4: The Divarication of the Putney Debates
