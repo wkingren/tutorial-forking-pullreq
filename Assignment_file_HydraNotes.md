@@ -27,6 +27,13 @@
 ## Chapter 3: "A Blackymore Maide Named Francis"
 
 ## Chapter 4: The Divarication of the Putney Debates
+* In this chapter, Rediker and Linebaugh establish that England is the origin of both the Commons and Slavery throughout the Atlantic.
+* The debates between the common soldiers off the New Model Army and Oliver Cromwell's representatives encapsulated a microsom of Atlantic revolution.
+* Putney was a crossroads in England, and both commonism (freedom) and slavery (enclosure) flowed accross the Atlantic World to Naples, London, Ireland, Barbados, The River Gambia, and Virginia
+>*Tribeless, landless, nameless,*
+*Wealthless, hostless, fameless*
+*Wander now thine aimless*
+*Children to and fro.* (p 123)
 
 ## Chapter 5: Hydrarchy: Sailors, Pirates and the Maritime State
 ![The Tar's Triumph, or Bawdy-House Battery](http://2.bp.blogspot.com/-JsKdCmWQ3Wk/Ux5lKcyAJ9I/AAAAAAAABMw/pPDWZiAMGPU/s1600/The+Tar%27s+Triumph+or+Bawdy+House+Brawl+Charles+Mosley+1749+NMM.jpg)
