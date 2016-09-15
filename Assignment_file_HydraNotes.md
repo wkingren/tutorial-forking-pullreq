@@ -43,6 +43,12 @@
 * This does give the reader pause. It may be true that pirate crews often voted on matters such as prizes taken, and officers of the crew. This was, however not always the case and depended on each ship. It could also be argued that pirates where part of this capitalist system as they were trying to increase their profits with as little work as possible. Recent historians of the Golden Age of Piracy such as Ed Fox makes these assertions and argues that Rediker's interpretation of the Golden Age is flawed when it comes to the egalitarian nature of the pirate ship. [For more info on Ed Fox click here.](http://www.etfox.co.uk/index.php)
 
 ## Chapter 6: "The Outcasts of the Nations of the Earth"
+1. Chapter Thesis: There was a conspiracy that involved the proletariat of the entire Atlantic, and it erupted in the 1741 New York rebellion.
+2. p. 183, the "Gangs of New York" organize into a paramilitary operation, with multiple captains reporting to the same commanders.
+3. p. 184-186, West Africans, paricularly Gold Coast Africans, were committed members of the plot, organized into their own groups with their own leaders.
+4. p. 186-188, Irish involvement (around 30-35 men) in the conspiracy reflects their troubled economic and political troubles with the English.
+5. p. 188-190, Cuban "negroes and mulattoes," captured as a prize and treated as slaves, were particularly aggrieved because they were free Spanish subjects.
+[New York Conspiracy of 1741](https://en.wikipedia.org/wiki/New_York_Conspiracy_of_1741)
 
 ## Chapter 7: A Motley Crew in the American Revolution
 ![Boston Stamp Act Riot 1764](https://i2.wp.com/allthingsliberty.com/wp-content/uploads/2013/01/stamp-act-riot.jpg)
